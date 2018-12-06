@@ -37,7 +37,7 @@ body {
 }
 
 .container img {
-    max-width: 100%;
+    max-width: 50%;
     width: auto;
 }
 
@@ -48,5 +48,5 @@ body {
 }
 
 .body img {
-    height: 70%
-        width: 70%
+    height: 40%
+        width: 40%
