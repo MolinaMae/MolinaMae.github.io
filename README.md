@@ -1,6 +1,6 @@
 ## Welcome to Molina Mae
 
-Food is one of the best things in the universe, so Imma make a website on it.
+Food is one of the best things in the universe, so I'm making a website on it.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
