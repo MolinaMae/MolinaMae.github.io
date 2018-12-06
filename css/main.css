@@ -1,10 +1,9 @@
 body {
-    background-color: #5d6577;
-    background-image: url("https://lumiere-a.akamaihd.net/v1/images/file_6fa4374d.jpeg?width=1200&region=0%2C0%2C2000%2C2000&quality=8");
+    background-color: white;
     font-family: 'Black And White Picture', sans-serif;
-    font-size: 18px;
+    font-size: 24px;
     color: #00cc00;
-    font-style:normal
+    font-style:sans-serif;
 }
 
 .body {
@@ -48,5 +47,6 @@ body {
 }
 
 .body img {
-    height: 40%
-        width: 40%
+    height: 40%;
+        width: 40%;
+}
