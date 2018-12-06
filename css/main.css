@@ -3,7 +3,7 @@ body {
     font-family: 'Black And White Picture', sans-serif;
     font-size: 24px;
     color: #00cc00;
-    font-style:sans-serif;
+    font-style: sans-serif;
     text-color: rgb(102, 0, 255);
 }
 
@@ -13,6 +13,7 @@ body {
     box-sizing: border-box;
     background-color: gray;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+    text-color: rgb(102, 0, 255);
 }
 
 .header {
@@ -24,12 +25,14 @@ body {
     flex-wrap: wrap;
     padding: 15px;
     background-color: #99ffff;
+    text-color: rgb(102, 0, 255);
 }
 
 .header h1 {
     font-size: 80px;
     line-height: 10px;
     color:#ff0066;
+    text-color: rgb(102, 0, 255);
 }
 
 .container {
